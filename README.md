@@ -193,7 +193,8 @@ CSE Department · Project Expo 2026 🏆 First Prize
 This project is licensed under the MIT License.
 
 ---
-
+Contributions are welcome! linkedin : https://www.linkedin.com/in/sravanthi-yadav-tech/ 
+e-mail: sravanthiyadav348@gmail.com
 <div align="center">
   <b>Built with ❤️ using Python, Pytest & Flask</b>
 </div>
